@@ -1,0 +1,6 @@
+/build
+/node_modules
+/out
+package-lock.json
+/build
+.well-known
